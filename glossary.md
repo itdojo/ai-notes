@@ -1,2 +1,3 @@
 - repo: a project tracked by git
 - branch: a movable pointer to a commit
+- remote: a copy of the repo living somewhere else
